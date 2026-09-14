@@ -16,4 +16,4 @@ I am a PhD candidate at the [State Key Laboratory of Processors](https://sklp.ic
 
 ![](https://img.shields.io/badge/📍-Beijing%2C%20China-blue)
 ![](https://img.shields.io/badge/📧-liuchuan23@mails.ucas.ac.cn-green)
-[![](https://img.shields.io/badge/GitHub-GitHubstart0916-181717?logo=github)]([https://github.com/yourname](https://github.com/GitHubstart0916))
+[![](https://img.shields.io/badge/GitHub-GitHubstart0916-181717?logo=github)](https://github.com/GitHubstart0916)
